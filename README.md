@@ -1,3 +1,4 @@
 # drivingschool
-A website for a driving school done by Harry Wafula Omusisi and Dennis Maigua
+A website for a driving school done by Harry Wafula Omusisi 
+An updated version of AA driving school
 
